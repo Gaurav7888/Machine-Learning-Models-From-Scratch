@@ -3,13 +3,16 @@
 A good place for beginners to start with Machine Learning. 
 Kickstart your hacktoberfest with some simple issues, adding some models that are missing, etc.
 
-Streamlit is an open-source app framework for Machine Learning and Data Science projects, that helps you to view your projects as a web application.
-If your interests align with ML, but you lack expertise with web developing, this repo will benefit you.
+The files in this repo are Jupyter Notebooks containing solutions to various Kaggle problems. 
+Kaggle is an online platform for data science and machine learning problems. https://www.kaggle.com
 
-This is a WebApp of a data set of mushrooms. This model predicts edible and poisonous mushrooms. You can also see its accuracy, precision and recall score on different algorithms.
 
 
 # Getting started
+- To contribute, first fork the repo.
+- Clone it onto your local computer, work on your contributions.
 - Start with some beginner issues labeled 'good first issue'
-- Contributors are welcome to add ML models that are missing in this repo
+- Contributors are welcome to add ML models that are missing in this repo.
 - Contributions are accepted under conventional rules. Well documented PRs.
+- Create a separate branch for your PRs, to keep the main branch clean. 
+- The collaborators will get back to you about code reviews on your commits.
