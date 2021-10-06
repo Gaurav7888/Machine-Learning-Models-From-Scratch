@@ -12,4 +12,4 @@ This is a WebApp of a data set of mushrooms. This model predicts edible and p
 # Getting started
 - Start with some beginner issues labeled 'good first issue'
 - Contributors are welcome to add ML models that are missing in this repo
-- Contributions are accepting under conventional rules. Well documented PRs.
+- Contributions are accepted under conventional rules. Well documented PRs.
